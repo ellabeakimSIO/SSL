@@ -1,4 +1,4 @@
-SSL_RRPCA is the cleanest RRPCA code. RRPCA SDT is one that I used, as well as fixing sparse. organizing matrices is used as well in SSL. 
+SSL_RRPCA is the cleanest RRPCA code. RRPCA SDT and RRPCA SOCAL are ones that I used in JASA publiation, as well as fixing sparse. organizing matrices is used as well in SSL. 
 
 Timeseries code includes: Plotting Timeseries data.R, plot_diel_presence.Exporting_to_R also used for this.
 
